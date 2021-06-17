@@ -12,4 +12,6 @@ as you can see – this is a test repository for working with GitHub in our DevO
 * this another list item
 * and yet another one
 
+* this is another list
 ![](siloso.jpg)
+
