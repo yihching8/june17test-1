@@ -14,5 +14,7 @@ as you can see – this is a test repository for working with GitHub in our DevO
 * and yet another one
 
 * this is another list
+* this is a beautiful place in Singapore
 ![](siloso.jpg)
+
 
